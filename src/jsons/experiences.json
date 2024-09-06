@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "company": "BHL Media Production",
+      "title": "Intern Video Editor )",
+      "duration": "2024 Present",
+      "tasks": [
+        "Worked as an intern video editor, assisting in the editing of video content for various projects, ensuring high-quality production standards.",
+        "Gained hands-on experience with video editing software, learning industry-standard techniques and workflows.",
+        "Collaborated with the production team to assemble raw footage, apply effects, and synchronize audio and video elements."
+      ]
+    },
+    {
+      "company": "Mater Dei College",
+      "title": "Capstone Project Member",
+      "duration": "June 2024 - Present",
+      "tasks": [
+        "Contributed to the development of an Online Freight Management System for Trucking Services as a capstone project.",
+        "Played a key role in researching, designing, and implementing the system, focusing on user interface, functionality, and seamless integration with trucking services.",
+        "Helped in defining project requirements, creating user stories, and ensuring the final product met client expectations.",
+        "Conducted research and analysis to define project requirements and scope, contributing to the overall project success."
+      ]
+    },
+    {
+      "company": "DICT Seminar",
+      "title": "Attendee",
+      "duration": "April 2024",
+      "tasks": [
+        "Attended a seminar organized by the Department of Information and Communications Technology (DICT) in Tagbilaran, Bohol.",
+        "Gained valuable insights into the latest trends and best practices in IT, including software development, cybersecurity, and digital transformation.",
+        "Networked with industry professionals and other IT students, expanding professional knowledge and connections.",
+        "Applied learnings from the seminar to academic projects and internships, enhancing technical skills and industry awareness."
+      ]
+    }
+  ]
+}
